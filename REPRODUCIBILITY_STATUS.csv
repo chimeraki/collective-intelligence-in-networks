@@ -1,0 +1,12 @@
+experiment,status,rows
+Primary matched 96-graph experiment,exact match,2304
+Full exact DGD risk,exact match,768
+Exact DGD matched contrasts,exact match,576
+Rank observability bounds,exact match,1920
+Exact-risk placement design,exact match,72
+Higher-order group inference,exact match,1000
+Higher-order dyadic control,exact match,2000
+80-proposal design-control benchmark,exact match except runtime seconds,160
+0.16-second design-control benchmark,variable with CPU/scheduling,160
+Fresh-seed 48-graph replication,archived table checked; generating script missing,1152
+External-environment installation,not tested on a second machine,0
