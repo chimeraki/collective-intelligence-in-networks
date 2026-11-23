@@ -1,8 +1,6 @@
-# Collective Intelligence in Networks
+# Information Placement and Collective Inference in Networks
 
-**The Role of Information Placement**
-
-Code and simulated data accompanying *Collective Intelligence in Networks: The Role of Information Placement*.
+Code and simulated data accompanying *Information Placement and Collective Inference in Networks*.
 
 **Author:** Sanjukta Krishnagopal  
 **Affiliation:** Department of Computer Science, University of California, Santa Barbara.
@@ -31,7 +29,7 @@ The primary 96-graph matched experiment, exact DGD risk, rank bounds, higher-ord
 
 ## Citation
 
-Sanjukta Krishnagopal, *Collective Intelligence in Networks: The Role of Information Placement*, manuscript.
+Sanjukta Krishnagopal, *Information Placement and Collective Inference in Networks*, manuscript.
 
 ## License
 
